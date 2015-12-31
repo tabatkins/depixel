@@ -1,7 +1,7 @@
 Depixelating Pixel Art
 ======================
 
-For my future use, I distilled the [algorithm for depixelating pixel art](http://research.microsoft.com/en-us/um/people/kopf/pixelart/index.html) into its component steps, minus the explanations and figures.
+For my future use, I distilled the [algorithm for depixelating pixel art](https://web.archive.org/web/20150914131222/http://research.microsoft.com/en-us/um/people/kopf/pixelart/index.html) into its component steps, minus the explanations and figures.
 
 General Algorithm
 -----------------
